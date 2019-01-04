@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BasicHomework\BasicHomework\bin\Debug\BasicHomework.exe.config
+C:\Users\User\source\repos\BasicHomework\BasicHomework\bin\Debug\BasicHomework.exe
+C:\Users\User\source\repos\BasicHomework\BasicHomework\bin\Debug\BasicHomework.pdb
+C:\Users\User\source\repos\BasicHomework\BasicHomework\obj\Debug\BasicHomework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BasicHomework\BasicHomework\obj\Debug\BasicHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BasicHomework\BasicHomework\obj\Debug\BasicHomework.exe
+C:\Users\User\source\repos\BasicHomework\BasicHomework\obj\Debug\BasicHomework.pdb
